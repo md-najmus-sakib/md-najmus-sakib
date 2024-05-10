@@ -1,4 +1,4 @@
-![Programmer](https://media.licdn.com/dms/image/C4E16AQHLx3xXgtHkjA/profile-displaybackgroundimage-shrink_350_1400/0/1651632955592?e=1709769600&v=beta&t=j-L5NFSeVi41PDLbtcsXBh3L2KvxZ1K2ncJ4aSByxO4)
+
 ### Hi there 👋, I'm Najmus Sakib
 
 I am student. Now I am studying in Computer Science & Engineering at Daffodil International University.
