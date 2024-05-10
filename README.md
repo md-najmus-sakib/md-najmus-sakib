@@ -1,10 +1,9 @@
 ![Programmer](https://media.licdn.com/dms/image/C4E16AQHLx3xXgtHkjA/profile-displaybackgroundimage-shrink_350_1400/0/1651632955592?e=1709769600&v=beta&t=j-L5NFSeVi41PDLbtcsXBh3L2KvxZ1K2ncJ4aSByxO4)
 ### Hi there 👋, I'm Najmus Sakib
-#### Programmer
 
 I am student. Now I am studying in Computer Science & Engineering at Daffodil International University.
 
-Skills: HTML / CSS / JS / C / C++
+Skills: HTML / CSS / JS / C / C++ / Python
 
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: He/Him 
