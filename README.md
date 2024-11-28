@@ -1,9 +1,9 @@
 
 ### Hi there 👋, I'm Najmus Sakib
 
-I am student. Now I am studying in Computer Science & Engineering at Daffodil International University.
+I am a student at Daffodil International University. Currently I am studying in Computer Science & Engineering. Pursuing a Career in Network Engineering, with a Focus on Network Security.
 
-Skills: HTML / CSS / JS / C / C++ / Python
+Skills: HTML / CSS / JS / C / Java / Python / CCNA
 
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: He/Him 
